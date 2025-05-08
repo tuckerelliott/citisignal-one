@@ -1,5 +1,7 @@
 {
     "project": "CitiSignal Storefront",
+    "editUrlLabel": "AEM Editor",
+    "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
     "plugins": [
         {
             "id": "library",
